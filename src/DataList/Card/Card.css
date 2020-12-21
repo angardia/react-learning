@@ -1,0 +1,19 @@
+
+.profile{
+    width: 75%;
+    margin: 0 auto;
+    background-color: #292420;
+    border-radius: 0.3rem;
+    padding: 6rem;
+    font-size: 1.6rem;
+    color: azure;
+    margin-bottom: 1rem
+}
+
+.profile__img{
+    border-radius: .3rem;
+}
+
+.profile__link{
+    color: azure;
+}
