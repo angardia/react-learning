@@ -1,13 +1,13 @@
 .SearchBar{
-    padding: 2rem;
+    padding: 1rem;
 }
 .txtInpt{
     padding: 1rem 1rem;
     margin: 1rem;
     border: none;
     border-bottom: 0.3rem solid purple;
-    width: 50%;
-    font-size: 2rem;
+    width: 70%;
+    font-size: 1.2rem;
 }
 
 .txtInpt:focus{
